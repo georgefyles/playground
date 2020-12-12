@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+    font-family: monospace;
+}
+      
+#Title {
+    font-size: 18pt;
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+
+button {
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+p {
+    font-size: 14pt;
+    border: 1px dotted black;
+}
+
+img.ChatImage {
+    width: 200px;
+}
+
+p.DadSpoke {
+    text-align: left;
+    color: limegreen;
+}
+
+p.BernardSpoke {
+    text-align: right;
+    color: blue;
+}

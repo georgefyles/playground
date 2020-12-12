@@ -29,7 +29,16 @@
     "run": {
         "configs": {
             "@inited": "true",
-            "json()": {}
+            "json()": {
+                "net.fyles.george.games.RockPaperScissors": {
+                    "command": "",
+                    "cwd": "/playground/src/main/java",
+                    "env": {},
+                    "name": "net.fyles.george.games.RockPaperScissors",
+                    "runner": "Java",
+                    "toolbar": true
+                }
+            }
         }
     },
     "welcome": {
