@@ -1,3 +1,3 @@
 # Playground
 
-My JavaScript playground.
+My coding playground.
