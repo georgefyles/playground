@@ -31,7 +31,7 @@ p {
 }
 
 .me-talking {
-    background-color: blue;
+    background-color: coral;
     float: right;
     clear: left;
 }
@@ -43,7 +43,7 @@ img.chat-image {
 button {
     background-color: purple;
     border: none;
-    color: white;
+    color: blue;
     padding: 15px 30px;
     font-size: 14pt;
 }
