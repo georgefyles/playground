@@ -1,0 +1,47 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.buttonA {
+  background-color: white; 
+  color: darkred;
+  border: 2px solid red;
+  border-radius: 12px;
+  font-family: fantasy;
+  padding-left: 32px;
+  padding-right: 32px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 300px;
+  
+}
+
+.buttonB {
+  background-color: white; 
+  color: black; 
+  border: 2px solid grey;
+  border-radius: 12px;
+  font-family: fantasy;
+  padding-left: 32px;
+  padding-right: 32px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 300px;
+  
+}
+
+.buttonC {
+    background-color: white;
+    border: 2px solid blue;
+    border-radius: 12px;
+    font-family: fantasy;
+    color: darkblue;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 300px;
+}
+
